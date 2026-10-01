@@ -134,10 +134,9 @@ Mean Macro-F1 (%) per target device. "Change" is cross-device minus within-devic
 | XGBoost | 73.9 | 70.3 | -3.6 |
 
 ### Figures
-
 <p align="center">
-  <img src="images/Figure_1_Within_vs_Cross_MacroF1.png" width="48%" alt="Within-device vs cross-device Macro-F1 by model">
-  <img src="images/Figure_2_Cross_Device_Device_Comparison.png" width="48%" alt="Cross-device Macro-F1 by target device">
+  <img src="https://github.com/user-attachments/assets/175ce3e9-ddce-49b6-a57d-10f953d647bb" width="48%" alt="Within-device vs cross-device Macro-F1 by model">
+  <img src="https://github.com/user-attachments/assets/77893a47-c355-4608-bff6-748d28f6a98f" width="48%" alt="Cross-device Macro-F1 by target device">
 </p>
 
 ### Key findings
